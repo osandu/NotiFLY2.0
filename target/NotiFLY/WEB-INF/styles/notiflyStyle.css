@@ -1,0 +1,95 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #00308F;
+	text-decoration: none;
+	background-image: url(background);
+	background-repeat: repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+h2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: bold;
+}
+
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	text-align: left;
+	text-indent: 10px;
+	vertical-align: middle;
+}
+#notifications {
+	border: thin double #003;
+}
+
+#categories {
+	border: thin double #003;
+}
+
+#applications {
+	border: thin double #003;
+}
+
+th {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+td {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 13px;
+}
+
+#notifications th {
+	border: thin solid #66F;
+}
+
+#notifications td {
+	border: thin solid #66F;
+}
+
+#categories th {
+	border: thin solid #66F;
+}
+
+#categories td {
+	border: thin solid #66F;
+}
+#applications th {
+	border: thin solid #66F;
+}
+
+#applications td {
+	border: thin solid #66F;
+}
+
+button {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #30C;
+	background-attachment: scroll;
+	background-image: url(buttonBkground);
+	background-repeat: repeat-x;
+	background-position: center center;
+	text-align: center;
+	vertical-align: middle;
+	height: 20px;
+	width: 200px;
+	border: thin solid #99F;
+}
+input{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color: #006;
+}
